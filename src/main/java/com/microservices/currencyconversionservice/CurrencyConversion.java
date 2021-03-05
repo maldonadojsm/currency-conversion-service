@@ -2,7 +2,7 @@ package com.microservices.currencyconversionservice;
 
 
 import java.math.BigDecimal;
-//Currency Conversion Bean
+//Currency Conversion Java Bean
 public class CurrencyConversion {
     private Long id;
     //@Column(name="currency_from")
